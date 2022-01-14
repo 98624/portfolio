@@ -1,0 +1,160 @@
+.header
+{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+}
+body{
+    background:linear-gradient(to right bottom,black, gray);
+}
+h4{
+    color:white;
+    display:inline;
+    padding-left:10px;
+    font-size: 20px;
+    position: relative;
+    top:40px;
+    font-family:cursive;
+}
+
+h4:hover{
+    color:red;
+}
+
+#home
+{
+    font-size: 20px;
+    font-family:cursive;
+    color:white;
+}
+.img
+{
+    background-color: black;
+    height: 300px;
+    width:250px;
+    float: right;
+    margin-top: -70px;
+    margin-right: 50px;
+    border-radius: 100px;
+    border: 1px solid black;
+    
+}
+p{
+    line-height:4px;
+    
+}
+.abt
+{
+    margin-top: 25%;
+    font-size:20px;
+    text-align:center;
+    padding-top: 5px;
+    background-color: black;
+    color:white;
+    height:250px;
+    border-radius: 20px;
+}
+.p
+{
+    text-align:center;
+    padding-top:10px;
+    font-size: 20px;
+}
+
+#about{
+    font-size: 50px;
+    margin-right: -200px;
+   
+}
+
+.pstyle{
+    position: absolute;
+    bottom: -150px;
+    padding-left: 17%;
+    letter-spacing: 2px;
+    line-break: 2;
+}
+
+#none{
+    text-decoration: none;
+    color:white;
+}
+
+#contactdetail{
+    color:red;
+    position: absolute;
+    right:50px;
+    top:15px;
+}
+
+#expertise{
+    background-color: black;
+    height:250px;
+    border-radius: 20px;
+
+}
+
+#exp{
+    color:white;
+    font-size:50px;
+    padding-left:45%;
+}
+#exp1
+{
+    color:white;
+    padding-top:20px;
+    font-size: 20px;
+}
+.btn
+{
+  
+    color:red;
+    float:right;
+    display:inline;
+    margin-left: 18%;
+    border-radius: 13px;
+    padding-left: 18px;
+    margin: 1px;
+    margin-top: -4px;
+}
+#btn
+{
+    color:red;
+    width:5%;
+    height:10%;
+    float:right;
+    display:inline;
+    margin-left: 19%;
+    padding: 50px;
+    padding-top: 0px;
+}
+a
+{
+    text-decoration: none;
+    color:white;
+}
+.btn1
+{
+  
+    color:red;
+    float:right;
+    display:inline;
+    margin-left: 18%;
+    border-radius: 13px;
+    padding-left: 18px;
+    margin: 1px;
+    margin-top: -4px;
+}
+#btn1
+{
+    color:red;
+    width:5%;
+    height:10%;
+    float:right;
+    display:inline;
+    margin-left: 19%;
+    padding: 50px;
+    padding-top: 0px;
+    font-size:20px;
+}
